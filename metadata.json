@@ -1,0 +1,6 @@
+{
+  "name": "Plugme Connect",
+  "description": "Digital business card and profile sharing via one QR code",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
